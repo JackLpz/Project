@@ -1,0 +1,15 @@
+<Server>
+    <item>  
+      <entrust_price>100.00</entrust_price>  
+      <entrust_amount>1.0</entrust_amount>  
+      <operator>10000</operator>  
+      <entrust_direction>1</entrust_direction>  
+    </item>  
+    <item>  
+      <entrust_price>101.00</entrust_price>  
+      <entrust_amount>2.0</entrust_amount>  
+      <operator>10001</operator>  
+      <entrust_direction>2</entrust_direction>  
+    </item>  
+    <!--more contacted persons.-->  
+</Server>
